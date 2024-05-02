@@ -1,0 +1,6 @@
+[submodule "Project1-Frontend-DPJ"]
+	path = Project1-Frontend-DPJ
+	url = https://github.com/240408-JavaReactAWS/Project1-Frontend-DPJ.git
+[submodule "Project1-DPJ"]
+	path = Project1-DPJ
+	url = https://github.com/240408-JavaReactAWS/Project1-DPJ.git
