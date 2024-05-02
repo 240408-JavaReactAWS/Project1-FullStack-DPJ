@@ -2,7 +2,7 @@
 
 The Banking Application Project includes the development of a comprehensive banking system, tailored to accommodate both customers and administrators. This project, leveraging the Spring Boot framework for backend operations and React for the frontend, will provide users with a streamlined management tool to effectively oversee their accounts. The primary objective of this banking system is to deliver a robust platform that meets the diverse needs of both users and administrators while prioritizing security and efficiency
 
-## Requirements
+## Technical Requirements
 - Build the application at least Java 17 and Spring Boot 3
 
 - All interactions between a User and the API should happen via HTTP Requests. Using a tool like Postman will allow you to set up these requests.
