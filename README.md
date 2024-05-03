@@ -17,18 +17,6 @@ Technology framework requirements:
 - Bootstrap can be used for styling instead of CSS
 - Hibernate will be the mapping tool between the object-oriented domain model and the relational database
 
-    - As a user, I should be able to create my account
-    - As a user, I should be able to login into my account
-    - As a user, I should be able to make withdrawals/deposits
-    - As a user, I should be able to check my checking/savings accounts
-    - As a user, I should be able to transfer money between my accounts
-    - As a user, I should be able to transfer money to other people
-    - As a admin, I should be able to create my account
-    - As a admin, I should be able to view all user accounts
-    - As a admin, I should be able to view all accounts associated to each user
-    - As a admin, I should be able to reset a user account password
-    - As a admin, I should be able to lock/unlock a user account
-    - As a admin, I should be able to enable/disable an account(checking/savings) associated to a user
  
 Stretch goals (not limited to):
 - Secure your Java API endpoints using JWTs
