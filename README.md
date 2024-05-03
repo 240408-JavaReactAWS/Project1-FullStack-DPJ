@@ -13,7 +13,7 @@ Technology framework requirements:
 - Java API will leverage the Spring Framework 
 - Java API will use Spring Data JPA to communicate with the DB
 - Java API will be RESTful (though HttpSession will be permitted)
-- The user interface will be built using React, Angular, CSS
+- The user interface will be built using React, Angular, HTML and CSS
 - Bootstrap can be used for styling instead of CSS
 - Hibernate will be the mapping tool between the object-oriented domain model and the relational database
 
